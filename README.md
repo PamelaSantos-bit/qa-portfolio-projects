@@ -19,3 +19,14 @@ Demonstrar na prática conhecimentos em QA, incluindo testes manuais, análise d
 
 ## Autora
 Pamela Santos
+
+## 📂 Projetos em destaque
+
+- 🐞 Bug Report:
+https://github.com/PamelaSantos-bit/qa-bug-report-web-ecommerce
+
+- 🧠 Gherkin (BDD):
+https://github.com/PamelaSantos-bit/bdd-gherkin-test-scenarios-ecommerce
+
+- 📖 User Stories:
+https://github.com/PamelaSantos-bit/agile-user-stories-ecommerce-qa
