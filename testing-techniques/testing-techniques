@@ -1,1 +1,8 @@
+Técnicas de Teste
+Descrição: 
 
+Projeto focado na aplicação de técnicas de testes de software, como particionamento de equivalência e tabela de decisão, para validação de funcionalidades em um sistema web.
+
+Foram elaborados cenários de teste com base em entradas válidas e inválidas, visando aumentar a cobertura de testes e identificar possíveis falhas.
+
+Este projeto demonstra a aplicação prática de técnicas fundamentais de QA para garantir qualidade e confiabilidade do sistema.
