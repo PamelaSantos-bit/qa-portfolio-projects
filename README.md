@@ -22,6 +22,9 @@ Pamela Santos
 
 ## 📂 Projetos em destaque
 
+- 🎯 Projeto de Validação de QA - Geração de Backlog de IA:
+https://github.com/PamelaSantos-bit/qa-ai-backlog-validation-project
+
 - 🐞 Bug Report:
 https://github.com/PamelaSantos-bit/qa-bug-report-web-ecommerce
 
